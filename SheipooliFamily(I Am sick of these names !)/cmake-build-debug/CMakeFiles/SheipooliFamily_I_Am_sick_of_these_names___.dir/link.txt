@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SheipooliFamily_I_Am_sick_of_these_names___.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\SheipooliFamily_I_Am_sick_of_these_names___.dir/objects.a @CMakeFiles\SheipooliFamily_I_Am_sick_of_these_names___.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SheipooliFamily_I_Am_sick_of_these_names___.dir/objects.a -Wl,--no-whole-archive -o SheipooliFamily_I_Am_sick_of_these_names___.exe -Wl,--out-implib,libSheipooliFamily_I_Am_sick_of_these_names___.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SheipooliFamily_I_Am_sick_of_these_names___.dir\linklibs.rsp

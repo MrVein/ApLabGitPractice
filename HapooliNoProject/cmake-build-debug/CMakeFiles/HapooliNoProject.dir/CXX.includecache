@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/AP/ApLab/HapooliNoProject/Header Files/student.h
+iostream
+-
+
+D:/CLionProjects/AP/ApLab/HapooliNoProject/Source Files/student.cpp
+../Header Files/student.h
+D:/CLionProjects/AP/ApLab/HapooliNoProject/Header Files/student.h
+cmath
+-
+cstring
+-
+
+D:/CLionProjects/AP/ApLab/HapooliNoProject/main.cpp
+iostream
+-
+Header Files/student.h
+D:/CLionProjects/AP/ApLab/HapooliNoProject/Header Files/student.h
+

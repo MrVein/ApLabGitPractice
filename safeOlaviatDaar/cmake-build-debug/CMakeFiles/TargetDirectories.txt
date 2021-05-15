@@ -1,0 +1,3 @@
+/home/learner/CLionProjects/KaarGaah AP/safeOlaviatDaar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/learner/CLionProjects/KaarGaah AP/safeOlaviatDaar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/learner/CLionProjects/KaarGaah AP/safeOlaviatDaar/cmake-build-debug/CMakeFiles/safeOlaviatDaar.dir

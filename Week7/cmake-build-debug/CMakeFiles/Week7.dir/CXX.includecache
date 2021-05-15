@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/AP/ApLab/Week7/Header Files/graph.h
+vector
+-
+cassert
+-
+iostream
+-
+string
+-
+node.h
+D:/CLionProjects/AP/ApLab/Week7/Header Files/node.h
+
+D:/CLionProjects/AP/ApLab/Week7/Header Files/node.h
+iostream
+-
+vector
+-
+
+D:/CLionProjects/AP/ApLab/Week7/main.cpp
+iostream
+-
+Header Files/graph.h
+D:/CLionProjects/AP/ApLab/Week7/Header Files/graph.h
+

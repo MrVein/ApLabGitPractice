@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/learner/CLionProjects/ApLab/HANGMAN/main.cpp
+iostream
+-
+termios.h
+-
+unistd.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AdadeGoya.dir/main.cpp.o  -o AdadeGoya 

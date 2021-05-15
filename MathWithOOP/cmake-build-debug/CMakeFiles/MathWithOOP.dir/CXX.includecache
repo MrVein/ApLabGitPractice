@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/AP/ApLab/MathWithOOP/Header Files/polynomial.h
+vector
+-
+iostream
+-
+
+D:/CLionProjects/AP/ApLab/MathWithOOP/Source Files/polynomial.cpp
+../Header Files/polynomial.h
+D:/CLionProjects/AP/ApLab/MathWithOOP/Header Files/polynomial.h
+
+D:/CLionProjects/AP/ApLab/MathWithOOP/main.cpp
+iostream
+-
+Header Files/polynomial.h
+D:/CLionProjects/AP/ApLab/MathWithOOP/Header Files/polynomial.h
+

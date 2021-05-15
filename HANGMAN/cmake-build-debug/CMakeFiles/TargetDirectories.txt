@@ -1,0 +1,3 @@
+/home/learner/CLionProjects/ApLab/HANGMAN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/learner/CLionProjects/ApLab/HANGMAN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/learner/CLionProjects/ApLab/HANGMAN/cmake-build-debug/CMakeFiles/HANGMAN.dir

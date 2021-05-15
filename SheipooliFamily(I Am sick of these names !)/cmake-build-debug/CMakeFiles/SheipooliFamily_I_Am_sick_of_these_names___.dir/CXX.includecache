@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Header Files/Circle.h
+Coordinate.h
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Header Files/Coordinate.h
+
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Header Files/Coordinate.h
+
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Header Files/Rectangle.h
+Coordinate.h
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Header Files/Coordinate.h
+
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Header Files/Triangle.h
+iostream
+-
+cmath
+-
+Coordinate.h
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Header Files/Coordinate.h
+
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Source Files/Circle.cpp
+../Header Files/Circle.h
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Header Files/Circle.h
+
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Source Files/Coordinate.cpp
+../Header Files/Coordinate.h
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Header Files/Coordinate.h
+
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Source Files/Rectangle.cpp
+../Header Files/Rectangle.h
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Header Files/Rectangle.h
+cmath
+-
+
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Source Files/Triangle.cpp
+../Header Files/Triangle.h
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Header Files/Triangle.h
+
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/main.cpp
+iostream
+-
+Header Files/Coordinate.h
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/Header Files/Coordinate.h
+

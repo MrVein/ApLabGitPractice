@@ -1,0 +1,3 @@
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/cmake-build-debug/CMakeFiles/SheipooliFamily_I_Am_sick_of_these_names___.dir
+D:/CLionProjects/AP/ApLab/SheipooliFamily(I Am sick of these names !)/cmake-build-debug/CMakeFiles/edit_cache.dir

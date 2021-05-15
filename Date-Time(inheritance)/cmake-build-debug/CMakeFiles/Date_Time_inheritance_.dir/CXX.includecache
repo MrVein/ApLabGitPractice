@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/AP/ApLab/Date-Time(inheritance)/Header Files/Date.h
+iostream
+-
+regex
+-
+
+D:/CLionProjects/AP/ApLab/Date-Time(inheritance)/Header Files/DateTime.h
+Date.h
+D:/CLionProjects/AP/ApLab/Date-Time(inheritance)/Header Files/Date.h
+Time.h
+D:/CLionProjects/AP/ApLab/Date-Time(inheritance)/Header Files/Time.h
+
+D:/CLionProjects/AP/ApLab/Date-Time(inheritance)/Header Files/Time.h
+iostream
+-
+string
+-
+
+D:/CLionProjects/AP/ApLab/Date-Time(inheritance)/Source Files/DateTime.cpp
+../Header Files/DateTime.h
+D:/CLionProjects/AP/ApLab/Date-Time(inheritance)/Header Files/DateTime.h
+
+D:/CLionProjects/AP/ApLab/Date-Time(inheritance)/main.cpp
+iostream
+-
+Header Files/Date.h
+D:/CLionProjects/AP/ApLab/Date-Time(inheritance)/Header Files/Date.h
+Header Files/DateTime.h
+D:/CLionProjects/AP/ApLab/Date-Time(inheritance)/Header Files/DateTime.h
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/AP/ApLab/TiredHapooli/Header Files/matrix.h
+iostream
+-
+vector
+-
+assert.h
+-
+
+D:/CLionProjects/AP/ApLab/TiredHapooli/main.cpp
+iostream
+-
+vector
+-
+cassert
+-
+cstring
+-
+Header Files/matrix.h
+D:/CLionProjects/AP/ApLab/TiredHapooli/Header Files/matrix.h
+

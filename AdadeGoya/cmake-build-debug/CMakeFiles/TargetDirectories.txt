@@ -1,0 +1,3 @@
+/home/learner/CLionProjects/ApLab/AdadeGoya/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/learner/CLionProjects/ApLab/AdadeGoya/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/learner/CLionProjects/ApLab/AdadeGoya/cmake-build-debug/CMakeFiles/AdadeGoya.dir
